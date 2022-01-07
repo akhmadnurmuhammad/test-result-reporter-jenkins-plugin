@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: demo
+Long-Name: TODO Plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0-SNAPSHOT (private-01/07/2022 15:11-AkMuhammad)
+Hudson-Version: 2.164.1
+Jenkins-Version: 2.164.1
+Plugin-Dependencies: structs:1.19
+Plugin-Developers: 
+Support-Dynamic-Loading: true
+Libraries: C:\Users\AkMuhammad\xapiens\qa-matrix\jenkins\new3\demo\src
+ \main\resources,C:\Users\AkMuhammad\xapiens\qa-matrix\jenkins\new3\de
+ mo\target\classes
+Resource-Path: C:\Users\AkMuhammad\xapiens\qa-matrix\jenkins\new3\demo
+ \src\main\webapp
+
