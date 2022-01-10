@@ -1,14 +1,18 @@
 Manifest-Version: 1.0
 Group-Id: io.jenkins.plugins
-Short-Name: demo
+Short-Name: test-result-reporter
 Long-Name: TODO Plugin
 Minimum-Java-Version: 1.8
 Plugin-Version: 1.0-SNAPSHOT (private-c4cb049c-AkMuhammad)
-Hudson-Version: 2.164.1
-Jenkins-Version: 2.164.1
+Hudson-Version: 2.277.1
+Jenkins-Version: 2.277.1
 Plugin-Dependencies: structs:1.19
 Plugin-Developers: 
 Support-Dynamic-Loading: true
+Plugin-License-Name: MIT License
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-ScmUrl: https://github.com/jenkinsci/plugin-pom/test-result-rep
+ orter
 Libraries: C:\Users\AkMuhammad\xapiens\qa-matrix\jenkins\new3\demo\src
  \main\resources,C:\Users\AkMuhammad\xapiens\qa-matrix\jenkins\new3\de
  mo\target\classes
