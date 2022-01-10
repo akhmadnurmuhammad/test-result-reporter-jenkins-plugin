@@ -1,0 +1,6 @@
+Started by user unknown or anonymous
+Building in workspace C:\Users\AkMuhammad\xapiens\qa-matrix\jenkins\new3\demo\work\workspace\a
+Performing post report, test jenkins!
+response statusCode = 200
+response body = {"IsSuccess":true,"Status":200,"Message":"2022-01-10 06:09:31","Data":{"ID":"4f3824a4-0908-4961-824a-ab2bdb470636","ProjectID":"b","ProjectName":"c","ReportName":"test jenkins","Status":"failed","StatusCode":5,"TestTool":"","Duration":233877000000,"CreatedBy":"","UpdatedBy":"","CreatedAt":"2022-01-10T06:09:31.275340678Z","UpdatedAt":"2022-01-10T06:09:31.27534118Z","DeletedAt":null}}
+Finished: SUCCESS
